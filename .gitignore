@@ -22,10 +22,6 @@ dist/
 .env.local
 .env.*.local
 
-# Ignore sensitive or personal information
-secrets.txt
-credentials.json
-
 # Ignore operating system files
 .DS_Store
 Thumbs.db
