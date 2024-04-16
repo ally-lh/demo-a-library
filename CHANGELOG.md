@@ -1,5 +1,11 @@
 # demo-a-library
 
+## 3.1.0
+
+### Minor Changes
+
+- added fileupload
+
 ## 3.0.0
 
 ### Major Changes
